@@ -1,1 +1,1 @@
-qwerty
+print("Yo")
